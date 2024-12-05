@@ -1,1 +1,1 @@
-# IoT_steaming
+# IoT_streaming
